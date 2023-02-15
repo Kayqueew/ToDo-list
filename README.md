@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/92122337/219211235-13b079e7-37d5-4289-887e-8e259d579548.mp4" width="900">
+    https://user-images.githubusercontent.com/92122337/219211235-13b079e7-37d5-4289-887e-8e259d579548.mp4
     <br>
 </p>
 
