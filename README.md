@@ -8,7 +8,7 @@
 
 ## 💻 Projeto
 
-https://user-images.githubusercontent.com/92122337/219212824-f4baa695-c7be-48d6-870a-d41d9c8f569b.mp4
+https://user-images.githubusercontent.com/92122337/219280911-0d2b7aca-1e55-44d3-bc64-2844994fb167.mp4
 
 <p align="center">
 <a href="https://kayqueew.github.io/ToDo-list/">
