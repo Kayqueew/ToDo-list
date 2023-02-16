@@ -6,17 +6,6 @@
 
 <br>
 
-## 🚀 Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- React
-- TypeScript
-- HTML e CSS
-- Git e Github
-- Figma
-- Vite
-
 ## 💻 Projeto
 
 https://user-images.githubusercontent.com/92122337/219212824-f4baa695-c7be-48d6-870a-d41d9c8f569b.mp4
@@ -36,6 +25,20 @@ Link de Demonstração Online
 ### •Remover uma tarefa
 
 ### • Alternar uma tarefa entre concluída e não concluída
+</br>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- React
+- TypeScript
+- HTML e CSS
+- Git e Github
+- Figma
+- Vite
+
+</br>
 
 ## Instalação
 
