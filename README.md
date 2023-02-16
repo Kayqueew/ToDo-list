@@ -1,7 +1,7 @@
 <h2 align="center"> ToDo-list </h2>
 
 <p align="center">
-  Desafio 1 da trilha ignite da Rocketseat 💻 
+  TODO LIST - Projeto IGNITE (RocketSeat)t 💻 
 </p>
 
 <br>
