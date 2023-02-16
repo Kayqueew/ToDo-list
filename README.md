@@ -21,10 +21,10 @@ Link de Demonstração Online
 ## Funções:
 
 ### • Adicionar uma nova tarefa
+### • Remover uma tarefa
+### • Marcar e desmarcar uma tarefa como concluída
+### • Mostrar o progresso de conclusão das tarefas
 
-### •Remover uma tarefa
-
-### • Alternar uma tarefa entre concluída e não concluída
 </br>
 
 ## 🚀 Tecnologias
