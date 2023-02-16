@@ -1,7 +1,7 @@
-<h2 align="center"> Profile </h2>
+<h2 align="center"> ToDo-list </h2>
 
 <p align="center">
-  Projeto criado 
+  Desafio 1 da trilha ignite da Rocketseat 💻 
 </p>
 
 <br>
@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 https://user-images.githubusercontent.com/92122337/219212824-f4baa695-c7be-48d6-870a-d41d9c8f569b.mp4
 
 <p align="center">
-<a href="https://ignite-react-odo-list">
+<a href="https://kayqueew.github.io/ToDo-list/">
 Link de Demonstração Online 
 </a>
 </p>
