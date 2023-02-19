@@ -37,7 +37,7 @@ export function CheckTask({ title, onDeleteTask, onCheckedtaskOneLess, onChecked
       <div onClick={() => handleClick()}> 
          {isCheck ? <BsCheckCircleFill className={styles.checkTrue}/> : <BsCircle className={styles.checkFalse}/>}
       </div>
-      <span className={isCheck ? styles.textCheckTrue : undefined} onClick={() => handleClick()} key={title}>
+      <span className={isCheck ? styles.textCheckTrue : undefined} onClick={() => handleClick()}>
          {title}
       </span>
       <button onClick={handleDeleteTask}><img src={Layer}/></button>      
