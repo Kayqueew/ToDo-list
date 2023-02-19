@@ -36,7 +36,7 @@ export function Task() {
   }
 
   function handleNewTaskInvalid(event: InvalidEvent<HTMLTextAreaElement>) {
-    event.target.setCustomValidity('essa campo ´e obrigatorio!!!!')
+    event.target.setCustomValidity('essa campo é obrigatorio!')
   }
 
   function deleteTask(taskToDelete: string)  {
