@@ -72,7 +72,7 @@ export function Task() {
             onChange={handleNewTaskChange}
             name='task'
             onInvalid={handleNewTaskInvalid}
-            placeholder='Adicione uma nova taref'
+            placeholder='Adicione uma nova tarefa'
             required={true}
           />
           <button type='submit' onClick={handleTaskCount} disabled={newTaskText.length == 0} > Criar <PlusCircle size={19}/></button>
